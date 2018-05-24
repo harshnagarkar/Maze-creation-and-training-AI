@@ -9,6 +9,7 @@ Then ran a Dfs search on each of this and created two csv files one for results 
 Then we trained AI.
 
 Problems in training.
+
 At started we ran successfullfractional training using pandas
 But when we tried to do on whole dataset ram limits exceeded for pc and performance slowed down.
 In a supercomputer benchmark we found that pandas apprach needs 45GB ram.
