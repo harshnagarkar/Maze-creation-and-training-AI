@@ -8,7 +8,7 @@ A Maze is nothing but a matrix where 0 means hall way and 1 means wall and there
 Then ran a Dfs search on each of this and created two csv files one for results and other for matrix array.
 Then we trained AI.
 
-##Problems in training.
+## Problems in training.
 
 1.At started we ran successfullfractional training using pandas
 But when we tried to do on whole dataset ram limits exceeded for pc and performance slowed down.
